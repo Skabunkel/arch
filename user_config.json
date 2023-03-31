@@ -1,0 +1,44 @@
+{
+    "__separator__": null,
+    "additional-repositories": [],
+    "archinstall-language": "English",
+    "audio": "pipewire",
+    "bootloader": "grub-install",
+    "config_version": "2.5.3",
+    "debug": false,
+    "harddrives": [
+    ],
+    "hostname": "laptop",
+    "kernels": [
+        "linux"
+    ],
+    "keyboard-layout": "sv-latin1",
+    "mirror-region": {},
+    "nic": {
+        "dhcp": true,
+        "dns": null,
+        "gateway": null,
+        "iface": null,
+        "ip": null,
+        "type": "nm"
+    },
+    "no_pkg_lookups": false,
+    "ntp": true,
+    "offline": false,
+    "packages": [
+        "git",
+        "vim"
+    ],
+    "parallel downloads": 0,
+    "profile": {
+        "path": "/usr/lib/python3.10/site-packages/archinstall/profiles/minimal.py"
+    },
+    "save_config": null,
+    "script": "guided",
+    "silent": false,
+    "swap": true,
+    "sys-encoding": "UTF-8",
+    "sys-language": "en_US",
+    "timezone": "Europe/Stockholm",
+    "version": "2.5.3"
+}
